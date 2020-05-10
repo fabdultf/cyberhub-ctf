@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Apr 11 07:56:19 2020
+Invocation: foremost -i avatar.png 
+Output directory: /root/Desktop/cyberhub/forensics/Help_avatar/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: avatar.png
+Start: Sat Apr 11 07:56:19 2020
+Length: 1 MB (1465205 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       1 MB 	          0 	  (1920 x 1080)
+Finish: Sat Apr 11 07:56:19 2020
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Apr 11 07:56:19 2020

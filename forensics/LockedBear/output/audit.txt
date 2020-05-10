@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Apr 11 09:25:06 2020
+Invocation: foremost bear.jpg 
+Output directory: /root/Desktop/cyberhub/forensics/LockedBear/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: bear.jpg
+Start: Sat Apr 11 09:25:06 2020
+Length: 127 KB (130268 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     127 KB 	          0 	 
+Finish: Sat Apr 11 09:25:06 2020
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Apr 11 09:25:06 2020
