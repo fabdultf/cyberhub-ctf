@@ -1,0 +1,2 @@
+flag.zip/rockme:$zip2$*0*3*0*6108712d621c52bdf3b643e779a5566f*98fa*25*6dc62225046cced2f5a5a3b3a2ad3a6f287137635b7a83febcc2190c13ba2f8fa31cc1ab21*f4878bad62f700a7b47e*$/zip2$:rockme:flag.zip:flag.zip
+flag.zip/rockme:$pkzip2$1*1*2*0*41*23*ff514065*0*2f*63*41*ff51*84fc*6108712d621c52bdf3b643e779a5566f98fa6dc62225046cced2f5a5a3b3a2ad3a6f287137635b7a83febcc2190c13ba2f8fa31cc1ab21f4878bad62f700a7b47e*$/pkzip2$:rockme:flag.zip::flag.zip

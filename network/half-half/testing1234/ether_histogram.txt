@@ -1,0 +1,9 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 1.6.0 ($Rev: 10844 $)
+# Feature-Recorder: ether
+# Filename: sec.pcapng
+# Histogram-File-Version: 1.1
+n=60636	00:0C:29:89:4D:F3
+n=32	00:0C:29:75:B6:77
+n=18	00:50:56:E7:10:4B
+n=2	00:50:56:F5:55:AB
